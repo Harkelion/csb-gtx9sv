@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harkelion.github.io/csb-gtx9sv/static/css/main.f5c5aaef.chunk.css",
+    "main.js": "https://harkelion.github.io/csb-gtx9sv/static/js/main.52c60b20.chunk.js",
+    "main.js.map": "https://harkelion.github.io/csb-gtx9sv/static/js/main.52c60b20.chunk.js.map",
+    "runtime-main.js": "https://harkelion.github.io/csb-gtx9sv/static/js/runtime-main.c6e6e095.js",
+    "runtime-main.js.map": "https://harkelion.github.io/csb-gtx9sv/static/js/runtime-main.c6e6e095.js.map",
+    "static/js/2.5f24f1e3.chunk.js": "https://harkelion.github.io/csb-gtx9sv/static/js/2.5f24f1e3.chunk.js",
+    "static/js/2.5f24f1e3.chunk.js.map": "https://harkelion.github.io/csb-gtx9sv/static/js/2.5f24f1e3.chunk.js.map",
+    "index.html": "https://harkelion.github.io/csb-gtx9sv/index.html",
+    "static/css/main.f5c5aaef.chunk.css.map": "https://harkelion.github.io/csb-gtx9sv/static/css/main.f5c5aaef.chunk.css.map",
+    "static/js/2.5f24f1e3.chunk.js.LICENSE.txt": "https://harkelion.github.io/csb-gtx9sv/static/js/2.5f24f1e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e6e095.js",
+    "static/js/2.5f24f1e3.chunk.js",
+    "static/css/main.f5c5aaef.chunk.css",
+    "static/js/main.52c60b20.chunk.js"
+  ]
+}
